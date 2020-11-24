@@ -1,0 +1,175 @@
+.App {
+  text-align: center;
+  
+}
+
+a {
+  text-decoration: none;
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: black;
+  text-decoration: none;  
+}
+.background-style{
+  background-image: url("./images/seattle.jpg");
+  width: 100vw;
+  height: 350px;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.button-style {
+  margin-left: 20px;
+  text-decoration: none;
+  font-size: 16px;
+}
+img {
+  border-radius: 5px;
+  width: 25vw;
+}
+
+.flex-style {
+  display: flex;
+  flex-direction: row;
+}
+.footer-style {
+  font-size: 12px;
+}
+.list-style {
+  text-align: center;
+}
+.list-style-2{
+  list-style: none;
+}
+
+.item-style {
+  display: flex; 
+  flex-direction: row;
+  margin-bottom: 24px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.nav-style {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 16px;
+}
+.nav-link {
+  color: #0420B1;
+
+}
+
+.h1-style {
+  color: white;
+  text-shadow: 0 1px 7px rgba(0,0,0,.7);
+}
+
+.hover-style:hover {
+  background-color: #F9F9F9;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.margin-style {
+  margin-right: 20px;
+  font-weight: 500;
+} 
+.mr-auto {
+  text-decoration: none;
+  margin: 10px 10px;
+}
+
+.icon-style {
+  margin-right: -5px;
+}
+
+.logo-style {
+  padding-top: 50px;
+}
+
+.home-style {
+  float: left;
+  margin-left: 10px;
+}
+
+.image-style-2 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.icon-style {
+  padding-right: 10px; 
+}
+
+.list-style {
+  font-size: medium;
+  list-style-type: none;
+  padding-left: 16px;
+  padding-right: 16px;
+  text-align: center;
+
+}
+.p-style {
+  color: white;
+  text-shadow: 0 1px 7px rgba(0,0,0,.7);
+}
+.search-style {
+  text-align: center;
+  font-size: 35px;
+  margin: 20px 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 35px;
+  border: black;
+}
+
+.form-style1 {
+  font-size: 20px;
+  width: 250px;
+  height: 30px;
+}
+.form-style2 {
+  font-size: 20px;
+  width: 250px;
+  height: 30px;
+}
+
+.title-style {
+  font-weight: bold;
+  font-size: 16px;
+  
+}
+
+. -auto {
+  text-decoration: none;
+}
+.search-style {
+  background-color: #246EFB ; 
+  color: white;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.user-style {
+  margin-left: -40px;
+  padding-left: 10px;
+  margin-right: 10px;
+}
